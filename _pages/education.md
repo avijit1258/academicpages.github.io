@@ -1,13 +1,13 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Avijit Bhattacharjee"
+permalink: /education/
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
+
 
 Education
 ======
