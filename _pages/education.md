@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Avijit Bhattacharjee"
+title: "Education"
 permalink: /education/
 author_profile: true
 
@@ -9,8 +9,7 @@ author_profile: true
 {% include base_path %}
 
 
-Education
-======
+
 * B.Sc. in Computer Science & Engineering, Khulna University, 2018(Expected)
 
 
