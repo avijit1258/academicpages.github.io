@@ -8,5 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Currently I am a undergraduate student at Computer Science and Engineering Discipline, Khulna University, Khulna. I love to make productive tools . During free time I like to tease my brain with problem solving , watch tv series , contibute to opensource projects etc .
+Currently I am a graduate student at Computer Science Department, University of Saskatchewan, Canada. I have completed my B.Sc. from Computer Science and Engineering at Khulna University, Khulna.
 
