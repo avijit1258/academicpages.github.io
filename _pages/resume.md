@@ -9,7 +9,7 @@ permalink: /resume/
 {% include base_path %}
 
 
-[Download PDF]({{ "/files/res2.pdf" | absolute_url }}) 
+[Download resume]({{ "/files/cv.pdf" | absolute_url }}) 
 
 
 

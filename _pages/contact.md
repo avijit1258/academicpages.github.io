@@ -8,4 +8,4 @@ author_profile: true
 For any query you can contact me at
 
 
-avijit[dot]cse[dot]ku@gmail[dot]com
+avijit[dot]bhattacharjee@usask[dot]ca
