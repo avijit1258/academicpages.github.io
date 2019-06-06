@@ -73,14 +73,14 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  UA-141577462-1
 
 
 # Site Author
 author:
   name             : "Avijit Bhattacharjee"
   avatar           : "profile.jpg"
-  bio              : "Grad stuedent at University Of Saskatchewan"
+  bio              : "Grad student at University Of Saskatchewan"
   location         : "Saskatoon, Canada"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=TZGtLGIAAAAJ"
