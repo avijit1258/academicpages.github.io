@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Avijit Bhattacharjee"
 description              : &description "Undergrad student at Khulna University, Bangladesh "
 url                      : https://avijit1258.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "https://avijitbhattacharjee.com" # the subpath of your site, e.g. "/blog"
 repository               : "avijit1258/avijit1258.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
