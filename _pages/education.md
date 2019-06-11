@@ -1,5 +1,5 @@
 ---
-layout: archive
+
 title: "Education"
 permalink: /education/
 author_profile: true
@@ -8,6 +8,31 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- layout: archive -->
+
+### M.Sc. in Computer Science, University of Saskatchewan, Canada 
+*Duration : January 2019 - Present*
+**Important Courses**
+* CMPT 890 - TOPICS IN LEARNING AND INTELLIGENT SYSTEMS (89%)
+* CMPT 898 - Automated Agricultural Analysis
+
+### B.Sc. in Computer Science & Engineering, Khulna University, Bangladesh
+*Duration : July 2014 - September 2018*
+CGPA : 3.74/4.0
+**Important Courses**
+* CSE 4205 - Artificial Intelligence
+* CSE 4221 - Pattern Recognition
+* CSE 4223 - Data Warehousing and Mining
+* CSE 4247 - Information Security and Control
+* CSE 4103 - Computer Graphics 
+* CSE 4105 - Compiler Design
+* CSE 3225 - Digital Image Processing
+* CSE 3101 - Database Systems
+* CSE 2201 - Algorithms
+* CSE 2208 - Assembly Language
+
+
+<!-- 
 ## Undergraduate Graduate Courses Taken at Khulna University
 
 **4-2 (Fourth Year, Second Term)**
@@ -112,3 +137,5 @@ author_profile: true
 * CHEM 1151 - Chemistry
 * CHEM 1152 - Chemistry Laboratory
 * ENG 1151  - English
+
+-->
