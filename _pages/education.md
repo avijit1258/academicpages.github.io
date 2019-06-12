@@ -12,6 +12,7 @@ author_profile: true
 
 ### M.Sc. in Computer Science, University of Saskatchewan, Canada 
 *Duration : January 2019 - Present*
+
 **Important Courses**
 * CMPT 890 - TOPICS IN LEARNING AND INTELLIGENT SYSTEMS (89%)
 * CMPT 898 - Automated Agricultural Analysis
@@ -19,6 +20,7 @@ author_profile: true
 ### B.Sc. in Computer Science & Engineering, Khulna University, Bangladesh
 *Duration : July 2014 - September 2018*
 CGPA : 3.74/4.0
+
 **Important Courses**
 * CSE 4205 - Artificial Intelligence
 * CSE 4221 - Pattern Recognition
