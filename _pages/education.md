@@ -15,7 +15,9 @@ author_profile: true
 
 **Important Courses**
 * CMPT 890 - TOPICS IN LEARNING AND INTELLIGENT SYSTEMS (89%)
-* CMPT 898 - Automated Agricultural Analysis
+* CMPT 898 - Automated Agricultural Analysis (84%)
+* CMPT 898 - Special Topics: Human-Driven Software Engineering for Scientific Research (94%)
+* CMPT 816 - Advanced Software Engineering	(94%)
 
 ### B.Sc. in Computer Science & Engineering, Khulna University, Bangladesh
 *Duration : July 2014 - September 2018*

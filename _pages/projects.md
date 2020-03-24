@@ -15,9 +15,8 @@ layout: archive
 
 ## Graduate Projects, Poster and Presentations
 
+* **Nutrient API Map** *Developed [Geo-Location Map](https://gwf.usask.ca/projects-facilities/nutrient-app.php#ViewYourMeasurements) using API data collected from Nutrient App*
 * **Nutrient App API** *Developed API for [Nutrient App](https://gwf.usask.ca/resources/nutrient-app.php) which is a part of GWF project*
-
-
 * **GWFPoster2019** *Presented a poster at 2nd Annual Meeting of [Global Water Future](https://gwf.usask.ca/) as member of Core CS team*
 [GWFPoster2019](https://www.dropbox.com/s/w9qwk7c10fqttle/GWFPoster2019_avijit_v3.pptx?dl=0)
 

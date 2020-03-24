@@ -10,10 +10,9 @@ permalink: /resume/
 
 <!-- layout: splash -->
 
-<embed src="/files/cv.pdf" width="600" height="500" alt="pdf" >
+<embed src="/files/avijit_resume.pdf" width="600" height="500" alt="pdf" >
 
-
-[Download pdf]({{ "/files/cv.pdf" | absolute_url }}) 
+<a href="/files/avijit_resume.pdf" download>Download pdf</a>
 
 
 
